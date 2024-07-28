@@ -1,5 +1,4 @@
 # hexadecimal-number-processor
-Author: Mina Radenković 
 
 This is my implementation of a project from Computer Computer Architecture course on the 1nd semester of 1st year of Software Engineering studies at Faculty of Technical Sciences in Novi Sad.
 
@@ -27,10 +26,7 @@ Usage
 
 To compile and run the program, use the following commands:
 
-    sh
-
     gcc -o main main.c
-    ./main
 
 Note
 
