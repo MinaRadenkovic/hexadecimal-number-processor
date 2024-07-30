@@ -9,7 +9,7 @@ Files
 
     main.c: The main C program that tests the assembly subroutine.
     testiraj.sh: A script for running tests.
-    resenje: The solution to the given task.
+    zad: The solution to the given task.
 
 Assembly Subroutine: poredjenjeBrojeva
 
